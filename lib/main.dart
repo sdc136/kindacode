@@ -10,9 +10,7 @@ import 'data_db.dart';
    child: OutlinedButton(onPressed: () {}, child: const Text('A Button')),
 )
 */
-// 20220704:12h22 : B_1.0.2
-// je contine test
-// je continue
+
 // cached_network_image : mise en cache => gain
 
 // Autocomplete : auto complétion champ texte
@@ -42,7 +40,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// code à nettoyer
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
 
