@@ -11,6 +11,7 @@ import 'data_db.dart';
 )
 */
 // 20220704:12h22 : B_1.0.2
+// je contine test
 // cached_network_image : mise en cache => gain
 
 // Autocomplete : auto complétion champ texte
