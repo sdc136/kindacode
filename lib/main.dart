@@ -13,6 +13,7 @@ import 'data_db.dart';
 
 // cached_network_image : mise en cache => gain
 
+// stacher : https://pub.dev/packages/stacher
 // Autocomplete : auto complétion champ texte
 
 void main() {
