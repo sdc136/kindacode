@@ -10,7 +10,7 @@ import 'data_db.dart';
    child: OutlinedButton(onPressed: () {}, child: const Text('A Button')),
 )
 */
-// 20220704:12h22 : B_1
+// 20220704:12h22 : B_1.0
 // cached_network_image : mise en cache => gain
 
 // Autocomplete : auto complétion champ texte
